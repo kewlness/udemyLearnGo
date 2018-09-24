@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kewlness/udemyLearnGo/02_package/stringutil"
+	"udemyLearnGo/02_package/stringutil"
 )
 
 func main() {
